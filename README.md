@@ -146,14 +146,6 @@ Note: `/api/devices` is not implemented; the app falls back to local/device data
 
 ---
 
-### Development Timeline
-- Phase 1: Foundation & Core (Weeks 1–3)
-- Phase 2: Device Control (Weeks 4–6)
-- Phase 3: Advanced Features (Weeks 7–8)
-- Phase 4: UI Enhancement (Weeks 9–10)
-- Phase 5: Testing (Weeks 11–12)
-- Phase 6: Deployment (Weeks 13–14)
-
 ---
 
 ### License
